@@ -1,0 +1,12 @@
+D:\HK1 - III\csdl\Lab06\Lab6_Basic_Command\Lab6_Basic_Command\bin\Debug\Lab6_Basic_Command.exe.config
+D:\HK1 - III\csdl\Lab06\Lab6_Basic_Command\Lab6_Basic_Command\bin\Debug\Lab6_Basic_Command.exe
+D:\HK1 - III\csdl\Lab06\Lab6_Basic_Command\Lab6_Basic_Command\bin\Debug\Lab6_Basic_Command.pdb
+D:\HK1 - III\csdl\Lab06\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.csproj.AssemblyReference.cache
+D:\HK1 - III\csdl\Lab06\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.Form1.resources
+D:\HK1 - III\csdl\Lab06\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.Properties.Resources.resources
+D:\HK1 - III\csdl\Lab06\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.csproj.GenerateResource.cache
+D:\HK1 - III\csdl\Lab06\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.csproj.CoreCompileInputs.cache
+D:\HK1 - III\csdl\Lab06\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.exe
+D:\HK1 - III\csdl\Lab06\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.pdb
+D:\HK1 - III\csdl\Lab06\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.FoodForm.resources
+D:\HK1 - III\csdl\Lab06\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.BillsForm.resources
