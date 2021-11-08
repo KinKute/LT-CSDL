@@ -112,6 +112,7 @@ namespace Lab6_Basic_Command
 			this.Controls.Add(this.dtpTu);
 			this.Controls.Add(this.dgvBillForm);
 			this.Name = "BillsForm";
+			this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
 			this.Text = "BillsForm";
 			((System.ComponentModel.ISupportInitialize)(this.dgvBillForm)).EndInit();
 			this.ResumeLayout(false);

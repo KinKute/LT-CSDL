@@ -48,6 +48,8 @@ namespace Lab6_Basic_Command
 			this.txtName = new System.Windows.Forms.TextBox();
 			this.txtType = new System.Windows.Forms.TextBox();
 			this.btnBill = new System.Windows.Forms.Button();
+			this.btnAccount = new System.Windows.Forms.Button();
+			this.btnTable = new System.Windows.Forms.Button();
 			this.contextMenuStrip1.SuspendLayout();
 			this.SuspendLayout();
 			// 
@@ -212,6 +214,26 @@ namespace Lab6_Basic_Command
 			this.btnBill.UseVisualStyleBackColor = true;
 			this.btnBill.Click += new System.EventHandler(this.btnBill_Click);
 			// 
+			// btnAccount
+			// 
+			this.btnAccount.Location = new System.Drawing.Point(674, 56);
+			this.btnAccount.Name = "btnAccount";
+			this.btnAccount.Size = new System.Drawing.Size(114, 40);
+			this.btnAccount.TabIndex = 7;
+			this.btnAccount.Text = "Account";
+			this.btnAccount.UseVisualStyleBackColor = true;
+			this.btnAccount.Click += new System.EventHandler(this.btnAccount_Click);
+			// 
+			// btnTable
+			// 
+			this.btnTable.Location = new System.Drawing.Point(674, 10);
+			this.btnTable.Name = "btnTable";
+			this.btnTable.Size = new System.Drawing.Size(114, 40);
+			this.btnTable.TabIndex = 7;
+			this.btnTable.Text = "Xem bàn";
+			this.btnTable.UseVisualStyleBackColor = true;
+			this.btnTable.Click += new System.EventHandler(this.btnTable_Click);
+			// 
 			// Form1
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -227,9 +249,12 @@ namespace Lab6_Basic_Command
 			this.Controls.Add(this.btnBill);
 			this.Controls.Add(this.btnAdd);
 			this.Controls.Add(this.btnUpdate);
+			this.Controls.Add(this.btnTable);
+			this.Controls.Add(this.btnAccount);
 			this.Controls.Add(this.btnDelete);
 			this.Controls.Add(this.btnLoad);
 			this.Name = "Form1";
+			this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
 			this.Text = "Form1";
 			this.contextMenuStrip1.ResumeLayout(false);
 			this.ResumeLayout(false);
@@ -257,6 +282,8 @@ namespace Lab6_Basic_Command
 		private System.Windows.Forms.ToolStripMenuItem tsmDelete;
 		private System.Windows.Forms.ToolStripMenuItem tsmViewFood;
 		private System.Windows.Forms.Button btnBill;
+		private System.Windows.Forms.Button btnAccount;
+		private System.Windows.Forms.Button btnTable;
 	}
 }
 

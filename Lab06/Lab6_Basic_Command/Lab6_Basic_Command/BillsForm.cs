@@ -46,7 +46,7 @@ namespace Lab6_Basic_Command
 			DataTable table = new DataTable("Bill");
 			adapter.Fill(table);
 
-			dgvBillForm.DataSource = table;
+			SetColumnsHeaderText(table);
 
 			// Prevent user to edit ID
 			dgvBillForm.Columns[0].ReadOnly = true;
@@ -66,12 +66,23 @@ namespace Lab6_Basic_Command
 			LoadBills();
 		}
 
+		private void SetColumnsHeaderText(DataTable dt)
+		{
+			dgvBillForm.DataSource = dt;
+			dgvBillForm.Columns[0].HeaderText = "Mã Bill";
+			dgvBillForm.Columns[1].HeaderText = "Tên";
+			dgvBillForm.Columns[2].HeaderText = "Số lượng";
+			dgvBillForm.Columns[3].HeaderText = "Chiết khấu";
+			dgvBillForm.Columns[4].HeaderText = "Thuế";
+			dgvBillForm.Columns[5].HeaderText = "Trạng thái";
+			dgvBillForm.Columns[6].HeaderText = "Ngày thanh toán";
+			dgvBillForm.Columns[7].HeaderText = "Tài khoản";
+
+		}
+
 		private void dgvBillForm_CellContentClick(object sender, DataGridViewCellEventArgs e)
 		{
-			//BillDetailsForm billDetails = new BillDetailsForm();
-			//string billID = dgvBillForm.SelectedRows[0].Cells[0].Value.ToString();
-			//billDetails.LoadBillDetails(int.Parse(billID));
-			//billDetails.Show();
+
 		}
 	}
 }

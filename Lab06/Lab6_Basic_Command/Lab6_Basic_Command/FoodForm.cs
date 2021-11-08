@@ -50,7 +50,7 @@ namespace Lab6_Basic_Command
 
 			// hiển thị danh sách món ăn lên form
 			//dgvFood.DataSource = dt;
-				ChangeName(dt);
+			ChangeName(dt);
 
 			// đóng kết nối, giải phóng bộ nhớ
 			sqlConnection.Close();
@@ -60,6 +60,43 @@ namespace Lab6_Basic_Command
 
 		private void btnSave_Click(object sender, EventArgs e)
 		{
+			// tạo đối tượng kết nối
+			string connectionString = @"Data Source=DESKTOP-O55J47Q;Initial Catalog=RestaurantManagement;Integrated Security=True";
+			SqlConnection sqlConnection = new SqlConnection(connectionString);
+
+			//tạo đối tượng thực thi lệnh
+			SqlCommand sqlCommand = sqlConnection.CreateCommand();
+
+			// thiết lập lệnh truy vấn cho đối tượng command
+			sqlCommand.CommandText = "UPDATE Food SET Name = N'" + txtName.Text + "', Unit = '" + txtUnit.Text + "', FoodCategoryID = " + txtFoodCategoryID.Text + ", Price = " + txtPrice.Text + ", Notes = '" + txtNote.Text + "'" +
+													   " WHERE ID = " + txtID.Text;
+			// mở kết nối tới csdl
+			sqlConnection.Open();
+
+			// thực thi lệnh bằng phương thức ExcuteReader
+			int numOfRowsEffected = sqlCommand.ExecuteNonQuery();
+
+			// đóng kết nối
+			sqlConnection.Close();
+
+			if (numOfRowsEffected == 1)
+			{
+				MessageBox.Show("Thêm tài khoản thành công");
+
+				//Tải lại dữ liệu
+				LoadFood(Convert.ToInt32(txtFoodCategoryID.Text));
+
+				// xoá các ô đã nhập
+				txtName.Text = "";
+				txtUnit.Text = "";
+				txtFoodCategoryID.Text = "";
+				txtPrice.Text = "";
+				txtNote.Text = "";
+			}
+			else
+			{
+				MessageBox.Show("Đã có lỗi xảy ra, vui lòng thử lại");
+			}
 		}
 
 		private void btnDelete_Click(object sender, EventArgs e)
@@ -111,6 +148,7 @@ namespace Lab6_Basic_Command
 			dgvFood.Columns[5].HeaderCell.Value = "Ghi chú";
 			dgvFood.Columns[5].AutoSizeMode = DataGridViewAutoSizeColumnMode.Fill;
 		}
+
 
 		private void FoodForm_Load(object sender, EventArgs e)
 		{

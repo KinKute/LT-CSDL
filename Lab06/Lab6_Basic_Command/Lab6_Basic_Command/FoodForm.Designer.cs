@@ -41,9 +41,9 @@ namespace Lab6_Basic_Command
 			this.txtID = new System.Windows.Forms.TextBox();
 			this.txtName = new System.Windows.Forms.TextBox();
 			this.txtUnit = new System.Windows.Forms.TextBox();
-			this.textBox4 = new System.Windows.Forms.TextBox();
-			this.textBox5 = new System.Windows.Forms.TextBox();
-			this.textBox6 = new System.Windows.Forms.TextBox();
+			this.txtFoodCategoryID = new System.Windows.Forms.TextBox();
+			this.txtPrice = new System.Windows.Forms.TextBox();
+			this.txtNote = new System.Windows.Forms.TextBox();
 			((System.ComponentModel.ISupportInitialize)(this.dgvFood)).BeginInit();
 			this.SuspendLayout();
 			// 
@@ -162,35 +162,35 @@ namespace Lab6_Basic_Command
 			this.txtUnit.Size = new System.Drawing.Size(252, 22);
 			this.txtUnit.TabIndex = 10;
 			// 
-			// textBox4
+			// txtFoodCategoryID
 			// 
-			this.textBox4.Location = new System.Drawing.Point(683, 13);
-			this.textBox4.Name = "textBox4";
-			this.textBox4.Size = new System.Drawing.Size(252, 22);
-			this.textBox4.TabIndex = 10;
+			this.txtFoodCategoryID.Location = new System.Drawing.Point(683, 13);
+			this.txtFoodCategoryID.Name = "txtFoodCategoryID";
+			this.txtFoodCategoryID.Size = new System.Drawing.Size(252, 22);
+			this.txtFoodCategoryID.TabIndex = 10;
 			// 
-			// textBox5
+			// txtPrice
 			// 
-			this.textBox5.Location = new System.Drawing.Point(683, 41);
-			this.textBox5.Name = "textBox5";
-			this.textBox5.Size = new System.Drawing.Size(252, 22);
-			this.textBox5.TabIndex = 10;
+			this.txtPrice.Location = new System.Drawing.Point(683, 41);
+			this.txtPrice.Name = "txtPrice";
+			this.txtPrice.Size = new System.Drawing.Size(252, 22);
+			this.txtPrice.TabIndex = 10;
 			// 
-			// textBox6
+			// txtNote
 			// 
-			this.textBox6.Location = new System.Drawing.Point(683, 69);
-			this.textBox6.Name = "textBox6";
-			this.textBox6.Size = new System.Drawing.Size(252, 22);
-			this.textBox6.TabIndex = 10;
+			this.txtNote.Location = new System.Drawing.Point(683, 69);
+			this.txtNote.Name = "txtNote";
+			this.txtNote.Size = new System.Drawing.Size(252, 22);
+			this.txtNote.TabIndex = 10;
 			// 
 			// FoodForm
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.ClientSize = new System.Drawing.Size(979, 648);
-			this.Controls.Add(this.textBox6);
-			this.Controls.Add(this.textBox5);
-			this.Controls.Add(this.textBox4);
+			this.Controls.Add(this.txtNote);
+			this.Controls.Add(this.txtPrice);
+			this.Controls.Add(this.txtFoodCategoryID);
 			this.Controls.Add(this.txtUnit);
 			this.Controls.Add(this.txtName);
 			this.Controls.Add(this.txtID);
@@ -204,6 +204,7 @@ namespace Lab6_Basic_Command
 			this.Controls.Add(this.btnSave);
 			this.Controls.Add(this.dgvFood);
 			this.Name = "FoodForm";
+			this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
 			this.Text = "FoodForm";
 			this.Load += new System.EventHandler(this.FoodForm_Load);
 			((System.ComponentModel.ISupportInitialize)(this.dgvFood)).EndInit();
@@ -226,8 +227,8 @@ namespace Lab6_Basic_Command
 		private System.Windows.Forms.TextBox txtID;
 		private System.Windows.Forms.TextBox txtName;
 		private System.Windows.Forms.TextBox txtUnit;
-		private System.Windows.Forms.TextBox textBox4;
-		private System.Windows.Forms.TextBox textBox5;
-		private System.Windows.Forms.TextBox textBox6;
+		private System.Windows.Forms.TextBox txtFoodCategoryID;
+		private System.Windows.Forms.TextBox txtPrice;
+		private System.Windows.Forms.TextBox txtNote;
 	}
 }

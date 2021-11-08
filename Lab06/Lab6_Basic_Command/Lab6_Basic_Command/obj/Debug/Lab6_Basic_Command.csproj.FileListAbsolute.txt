@@ -10,3 +10,5 @@ D:\HK1 - III\csdl\Lab06\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Bas
 D:\HK1 - III\csdl\Lab06\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.pdb
 D:\HK1 - III\csdl\Lab06\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.FoodForm.resources
 D:\HK1 - III\csdl\Lab06\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.BillsForm.resources
+D:\HK1 - III\csdl\Lab06\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.AccountForm.resources
+D:\HK1 - III\csdl\Lab06\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.tableForm.resources

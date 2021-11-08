@@ -102,6 +102,7 @@ namespace Lab6_Basic_Command
 			{
 				MessageBox.Show("Đã có lỗi xảy ra, vui lòng thử lại");
 			}
+			
 
 		}
 
@@ -234,6 +235,18 @@ namespace Lab6_Basic_Command
 		{
 			BillsForm billsForm = new BillsForm();
 			billsForm.ShowDialog();
+		}
+
+		private void btnAccount_Click(object sender, EventArgs e)
+		{
+			AccountForm acc = new AccountForm();
+			acc.ShowDialog();
+		}
+
+		private void btnTable_Click(object sender, EventArgs e)
+		{
+			tableForm table = new tableForm();
+			table.ShowDialog();
 		}
 	}
 }
