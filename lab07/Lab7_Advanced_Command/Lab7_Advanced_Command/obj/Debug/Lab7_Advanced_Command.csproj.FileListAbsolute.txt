@@ -1,0 +1,14 @@
+D:\HK1 - III\csdl\lab07\Lab7_Advanced_Command\Lab7_Advanced_Command\bin\Debug\Lab7_Advanced_Command.exe.config
+D:\HK1 - III\csdl\lab07\Lab7_Advanced_Command\Lab7_Advanced_Command\bin\Debug\Lab7_Advanced_Command.exe
+D:\HK1 - III\csdl\lab07\Lab7_Advanced_Command\Lab7_Advanced_Command\bin\Debug\Lab7_Advanced_Command.pdb
+D:\HK1 - III\csdl\lab07\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.csproj.AssemblyReference.cache
+D:\HK1 - III\csdl\lab07\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.Form1.resources
+D:\HK1 - III\csdl\lab07\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.Properties.Resources.resources
+D:\HK1 - III\csdl\lab07\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.csproj.GenerateResource.cache
+D:\HK1 - III\csdl\lab07\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.csproj.CoreCompileInputs.cache
+D:\HK1 - III\csdl\lab07\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.exe
+D:\HK1 - III\csdl\lab07\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.pdb
+D:\HK1 - III\csdl\lab07\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.foodInfoForm.resources
+D:\HK1 - III\csdl\lab07\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.AddFoodCategory.resources
+D:\HK1 - III\csdl\lab07\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.OrdersForm.resources
+D:\HK1 - III\csdl\lab07\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.AccountForm.resources
