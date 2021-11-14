@@ -12,3 +12,4 @@ D:\HK1 - III\csdl\lab07\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\La
 D:\HK1 - III\csdl\lab07\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.AddFoodCategory.resources
 D:\HK1 - III\csdl\lab07\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.OrdersForm.resources
 D:\HK1 - III\csdl\lab07\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.AccountForm.resources
+D:\HK1 - III\csdl\lab07\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.OrderDetailsForm.resources

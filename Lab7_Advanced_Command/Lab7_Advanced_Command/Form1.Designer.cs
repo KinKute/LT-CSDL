@@ -35,7 +35,6 @@ namespace Lab7_Advanced_Command
 			this.dgvFoodList = new System.Windows.Forms.DataGridView();
 			this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
 			this.tsmCalculateQuantity = new System.Windows.Forms.ToolStripMenuItem();
-			this.tsmSeperator = new System.Windows.Forms.ToolStripMenuItem();
 			this.tsmAddFood = new System.Windows.Forms.ToolStripMenuItem();
 			this.tsmUpdateFood = new System.Windows.Forms.ToolStripMenuItem();
 			this.label2 = new System.Windows.Forms.Label();
@@ -96,11 +95,10 @@ namespace Lab7_Advanced_Command
 			this.contextMenuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
 			this.contextMenuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.tsmCalculateQuantity,
-            this.tsmSeperator,
             this.tsmAddFood,
             this.tsmUpdateFood});
 			this.contextMenuStrip1.Name = "contextMenuStrip1";
-			this.contextMenuStrip1.Size = new System.Drawing.Size(218, 100);
+			this.contextMenuStrip1.Size = new System.Drawing.Size(218, 104);
 			// 
 			// tsmCalculateQuantity
 			// 
@@ -108,12 +106,6 @@ namespace Lab7_Advanced_Command
 			this.tsmCalculateQuantity.Size = new System.Drawing.Size(217, 24);
 			this.tsmCalculateQuantity.Text = "Tính số lượng bàn ăn";
 			this.tsmCalculateQuantity.Click += new System.EventHandler(this.tsmCalculateQuantity_Click);
-			// 
-			// tsmSeperator
-			// 
-			this.tsmSeperator.Name = "tsmSeperator";
-			this.tsmSeperator.Size = new System.Drawing.Size(217, 24);
-			this.tsmSeperator.Text = "toolStripMenuItem2";
 			// 
 			// tsmAddFood
 			// 
@@ -199,7 +191,7 @@ namespace Lab7_Advanced_Command
 			this.txtSearchByName.Location = new System.Drawing.Point(576, 13);
 			this.txtSearchByName.Name = "txtSearchByName";
 			this.txtSearchByName.Size = new System.Drawing.Size(252, 22);
-			this.txtSearchByName.TabIndex = 3;
+			this.txtSearchByName.TabIndex = 2;
 			this.txtSearchByName.TextChanged += new System.EventHandler(this.txtSearchByName_TextChanged);
 			// 
 			// btnBill
@@ -207,7 +199,7 @@ namespace Lab7_Advanced_Command
 			this.btnBill.Location = new System.Drawing.Point(834, 13);
 			this.btnBill.Name = "btnBill";
 			this.btnBill.Size = new System.Drawing.Size(125, 25);
-			this.btnBill.TabIndex = 4;
+			this.btnBill.TabIndex = 3;
 			this.btnBill.Text = "Xuất hoá đơn";
 			this.btnBill.UseVisualStyleBackColor = true;
 			this.btnBill.Click += new System.EventHandler(this.btnBill_Click);
@@ -261,7 +253,6 @@ namespace Lab7_Advanced_Command
 		private System.Windows.Forms.Label lblCatName;
 		private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
 		private System.Windows.Forms.ToolStripMenuItem tsmCalculateQuantity;
-		private System.Windows.Forms.ToolStripMenuItem tsmSeperator;
 		private System.Windows.Forms.ToolStripMenuItem tsmAddFood;
 		private System.Windows.Forms.ToolStripMenuItem tsmUpdateFood;
 		private System.Windows.Forms.Label label4;

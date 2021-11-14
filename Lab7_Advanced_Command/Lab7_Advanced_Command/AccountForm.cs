@@ -46,7 +46,41 @@ namespace Lab7_Advanced_Command
 			LoadAccount();
 		}
 
-		private void btnAdd_Click(object sender, EventArgs e)
+
+
+		private void ResetText()
+		{
+			txtAcc.Text = "";
+			txtPass.Text = "";
+			txtFullName.Text = "";
+			txtEmail.Text = "";
+			txtTell.Text = "";
+		}
+
+		private void dgvData_Click(object sender, EventArgs e)
+		{
+			int index = dgvData.CurrentRow.Index;
+
+			if (index != null)
+			{
+				txtAcc.Text = dgvData.Rows[index].Cells["AccountName"].Value.ToString();
+				txtPass.Text = dgvData.Rows[index].Cells["PassWord"].Value.ToString();
+				txtFullName.Text = dgvData.Rows[index].Cells["FullName"].Value.ToString();
+				txtEmail.Text = dgvData.Rows[index].Cells["Email"].Value.ToString();
+				txtTell.Text = dgvData.Rows[index].Cells["Tell"].Value.ToString();
+			}
+		}
+
+		private void btnReset_Click(object sender, EventArgs e)
+		{
+			ResetText();
+		}
+
+		private void xemDanhSáchCácVaiTròToolStripMenuItem_Click(object sender, EventArgs e)
+		{
+		}
+
+		private void btnAdd_Click_1(object sender, EventArgs e)
 		{
 			try
 			{
@@ -79,6 +113,7 @@ namespace Lab7_Advanced_Command
 					string accName = cmd.Parameters["@AccountName"].Value.ToString();
 					MessageBox.Show("Successfully adding new account " + accName, "Message");
 					ResetText();
+					LoadAccount();
 				}
 				else
 				{
@@ -94,42 +129,53 @@ namespace Lab7_Advanced_Command
 			}
 		}
 
-		private void ResetText()
+		private void btnUpdate_Click_1(object sender, EventArgs e)
 		{
-			txtAcc.Text = "";
-			txtPass.Text = "";
-			txtFullName.Text = "";
-			txtEmail.Text = "";
-			txtTell.Text = "";
-		}
-
-		private void dgvData_Click(object sender, EventArgs e)
-		{
-			int index = dgvData.CurrentRow.Index;
-
-			if (index != null)
+			try
 			{
-				txtAcc.Text = dgvData.Rows[index].Cells["AccountName"].Value.ToString();
-				txtPass.Text = dgvData.Rows[index].Cells["PassWord"].Value.ToString();
-				txtFullName.Text = dgvData.Rows[index].Cells["FullName"].Value.ToString();
-				txtEmail.Text = dgvData.Rows[index].Cells["Email"].Value.ToString();
-				txtTell.Text = dgvData.Rows[index].Cells["Tell"].Value.ToString();
+				string connectionString = "Data Source=DESKTOP-O55J47Q;Initial Catalog=RestaurantManagement;Integrated Security=True";
+				SqlConnection conn = new SqlConnection(connectionString);
+
+				SqlCommand cmd = conn.CreateCommand();
+				cmd.CommandText = "EXECUTE UpdateAccount @AccountName, @Password, @FullName, @Email, @Tell, @DateCreated";
+
+				cmd.Parameters.Add("@AccountName", SqlDbType.NVarChar, 100);
+				cmd.Parameters.Add("@Password", SqlDbType.NVarChar, 200);
+				cmd.Parameters.Add("@FullName", SqlDbType.NVarChar, 1000);
+				cmd.Parameters.Add("@Email", SqlDbType.NVarChar, 1000);
+				cmd.Parameters.Add("@Tell", SqlDbType.NVarChar, 200);
+				cmd.Parameters.Add("@DateCreated", SqlDbType.SmallDateTime);
+
+				cmd.Parameters["@AccountName"].Value = txtAcc.Text;
+				cmd.Parameters["@Password"].Value = txtPass.Text;
+				cmd.Parameters["@FullName"].Value = txtFullName.Text;
+				cmd.Parameters["@Email"].Value = txtEmail.Text;
+				cmd.Parameters["@Tell"].Value = txtTell.Text;
+				cmd.Parameters["@DateCreated"].Value = DateTime.Now.ToShortDateString();
+
+				conn.Open();
+
+				int numRowAffected = cmd.ExecuteNonQuery();
+
+				if (numRowAffected > 0)
+				{
+					string accName = cmd.Parameters["@AccountName"].Value.ToString();
+					MessageBox.Show("Successfully updaete account " + accName, "Message");
+					ResetText();
+					LoadAccount();
+				}
+				else
+				{
+					MessageBox.Show("Updating account failed");
+				}
+
+				conn.Close();
+				conn.Dispose();
 			}
-		}
-
-		private void btnReset_Click(object sender, EventArgs e)
-		{
-			ResetText();
-		}
-
-		private void label3_Click(object sender, EventArgs e)
-		{
-
-		}
-
-		private void AccountForm_FormClosed(object sender, FormClosedEventArgs e)
-		{
-
+			catch (Exception exception)
+			{
+				MessageBox.Show(exception.Message, "SQL Error");
+			}
 		}
 	}
 }

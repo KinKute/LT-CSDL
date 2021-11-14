@@ -141,7 +141,7 @@ namespace Lab7_Advanced_Command
 			catch (Exception exception)
 			{
 				MessageBox.Show(exception.Message, "Error");
-				this.Close();	
+				this.Close();
 			}
 		}
 
@@ -177,7 +177,7 @@ namespace Lab7_Advanced_Command
 				int numRowAffected = cmd.ExecuteNonQuery();
 
 				//thông báo kết quả
-				if (numRowAffected>0)
+				if (numRowAffected > 0)
 				{
 					MessageBox.Show("Successfully updating food", "Message");
 

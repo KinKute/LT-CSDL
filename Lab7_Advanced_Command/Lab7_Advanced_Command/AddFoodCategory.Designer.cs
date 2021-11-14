@@ -46,7 +46,7 @@ namespace Lab7_Advanced_Command
 			this.label5.Location = new System.Drawing.Point(12, 13);
 			this.label5.Name = "label5";
 			this.label5.Size = new System.Drawing.Size(51, 19);
-			this.label5.TabIndex = 6;
+			this.label5.TabIndex = 0;
 			this.label5.Text = "Name";
 			// 
 			// label1
@@ -59,7 +59,7 @@ namespace Lab7_Advanced_Command
 			this.label1.Location = new System.Drawing.Point(12, 43);
 			this.label1.Name = "label1";
 			this.label1.Size = new System.Drawing.Size(43, 19);
-			this.label1.TabIndex = 6;
+			this.label1.TabIndex = 0;
 			this.label1.Text = "Type";
 			// 
 			// txtName
@@ -67,21 +67,21 @@ namespace Lab7_Advanced_Command
 			this.txtName.Location = new System.Drawing.Point(84, 12);
 			this.txtName.Name = "txtName";
 			this.txtName.Size = new System.Drawing.Size(328, 22);
-			this.txtName.TabIndex = 7;
+			this.txtName.TabIndex = 1;
 			// 
 			// txtType
 			// 
 			this.txtType.Location = new System.Drawing.Point(84, 42);
 			this.txtType.Name = "txtType";
 			this.txtType.Size = new System.Drawing.Size(328, 22);
-			this.txtType.TabIndex = 7;
+			this.txtType.TabIndex = 2;
 			// 
 			// btnAdd
 			// 
 			this.btnAdd.Location = new System.Drawing.Point(337, 70);
 			this.btnAdd.Name = "btnAdd";
 			this.btnAdd.Size = new System.Drawing.Size(75, 28);
-			this.btnAdd.TabIndex = 8;
+			this.btnAdd.TabIndex = 3;
 			this.btnAdd.Text = "&Add";
 			this.btnAdd.UseVisualStyleBackColor = true;
 			this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
