@@ -1,0 +1,86 @@
+A:\nam3hk1\Lập trình cơ sở dữ liệu\Lab\Lab09\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.csproj.AssemblyReference.cache
+A:\nam3hk1\Lập trình cơ sở dữ liệu\Lab\Lab09\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.MainForm.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\Lab\Lab09\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.Properties.Resources.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\Lab\Lab09\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.csproj.GenerateResource.cache
+A:\nam3hk1\Lập trình cơ sở dữ liệu\Lab\Lab09\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.csproj.CoreCompileInputs.cache
+A:\nam3hk1\Lập trình cơ sở dữ liệu\Lab\Lab09\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\Lab09_Entity_Framework.exe.config
+A:\nam3hk1\Lập trình cơ sở dữ liệu\Lab\Lab09\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\Lab09_Entity_Framework.exe
+A:\nam3hk1\Lập trình cơ sở dữ liệu\Lab\Lab09\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\Lab09_Entity_Framework.pdb
+A:\nam3hk1\Lập trình cơ sở dữ liệu\Lab\Lab09\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\EntityFramework.dll
+A:\nam3hk1\Lập trình cơ sở dữ liệu\Lab\Lab09\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\EntityFramework.SqlServer.dll
+A:\nam3hk1\Lập trình cơ sở dữ liệu\Lab\Lab09\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\EntityFramework.xml
+A:\nam3hk1\Lập trình cơ sở dữ liệu\Lab\Lab09\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\EntityFramework.SqlServer.xml
+A:\nam3hk1\Lập trình cơ sở dữ liệu\Lab\Lab09\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.csproj.CopyComplete
+A:\nam3hk1\Lập trình cơ sở dữ liệu\Lab\Lab09\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.exe
+A:\nam3hk1\Lập trình cơ sở dữ liệu\Lab\Lab09\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.pdb
+A:\nam3hk1\Lập trình cơ sở dữ liệu\Lab\Lab09\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.UpdateCategoryForm.resources
+C:\Users\nmh26\OneDrive\Desktop\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\Lab09_Entity_Framework.exe.config
+C:\Users\nmh26\OneDrive\Desktop\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\Lab09_Entity_Framework.exe
+C:\Users\nmh26\OneDrive\Desktop\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\Lab09_Entity_Framework.pdb
+C:\Users\nmh26\OneDrive\Desktop\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\EntityFramework.dll
+C:\Users\nmh26\OneDrive\Desktop\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nmh26\OneDrive\Desktop\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\EntityFramework.xml
+C:\Users\nmh26\OneDrive\Desktop\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nmh26\OneDrive\Desktop\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.csproj.AssemblyReference.cache
+C:\Users\nmh26\OneDrive\Desktop\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.MainForm.resources
+C:\Users\nmh26\OneDrive\Desktop\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.Properties.Resources.resources
+C:\Users\nmh26\OneDrive\Desktop\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.UpdateCategoryForm.resources
+C:\Users\nmh26\OneDrive\Desktop\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.csproj.GenerateResource.cache
+C:\Users\nmh26\OneDrive\Desktop\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.csproj.CoreCompileInputs.cache
+C:\Users\nmh26\OneDrive\Desktop\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.csproj.CopyComplete
+C:\Users\nmh26\OneDrive\Desktop\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.exe
+C:\Users\nmh26\OneDrive\Desktop\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.pdb
+C:\Users\nmh26\OneDrive\Desktop\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.UpdateFoodFormcs.resources
+F:\Lập trình cơ sở dữ liệu\Bài tập\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\Lab09_Entity_Framework.exe.config
+F:\Lập trình cơ sở dữ liệu\Bài tập\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\Lab09_Entity_Framework.exe
+F:\Lập trình cơ sở dữ liệu\Bài tập\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\Lab09_Entity_Framework.pdb
+F:\Lập trình cơ sở dữ liệu\Bài tập\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\EntityFramework.dll
+F:\Lập trình cơ sở dữ liệu\Bài tập\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\EntityFramework.SqlServer.dll
+F:\Lập trình cơ sở dữ liệu\Bài tập\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\EntityFramework.xml
+F:\Lập trình cơ sở dữ liệu\Bài tập\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\EntityFramework.SqlServer.xml
+F:\Lập trình cơ sở dữ liệu\Bài tập\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.csproj.AssemblyReference.cache
+F:\Lập trình cơ sở dữ liệu\Bài tập\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.MainForm.resources
+F:\Lập trình cơ sở dữ liệu\Bài tập\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.Properties.Resources.resources
+F:\Lập trình cơ sở dữ liệu\Bài tập\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.UpdateCategoryForm.resources
+F:\Lập trình cơ sở dữ liệu\Bài tập\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.UpdateFoodFormcs.resources
+F:\Lập trình cơ sở dữ liệu\Bài tập\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.csproj.GenerateResource.cache
+F:\Lập trình cơ sở dữ liệu\Bài tập\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.csproj.CoreCompileInputs.cache
+F:\Lập trình cơ sở dữ liệu\Bài tập\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.csproj.CopyComplete
+F:\Lập trình cơ sở dữ liệu\Bài tập\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.exe
+F:\Lập trình cơ sở dữ liệu\Bài tập\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.pdb
+C:\Users\Kin\Desktop\123\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\Lab09_Entity_Framework.exe.config
+C:\Users\Kin\Desktop\123\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\Lab09_Entity_Framework.exe
+C:\Users\Kin\Desktop\123\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\Lab09_Entity_Framework.pdb
+C:\Users\Kin\Desktop\123\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\EntityFramework.dll
+C:\Users\Kin\Desktop\123\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kin\Desktop\123\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\EntityFramework.xml
+C:\Users\Kin\Desktop\123\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kin\Desktop\123\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.csproj.AssemblyReference.cache
+C:\Users\Kin\Desktop\123\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kin\Desktop\123\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.MainForm.resources
+C:\Users\Kin\Desktop\123\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.Properties.Resources.resources
+C:\Users\Kin\Desktop\123\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.UpdateCategoryForm.resources
+C:\Users\Kin\Desktop\123\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.csproj.GenerateResource.cache
+C:\Users\Kin\Desktop\123\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.csproj.CoreCompileInputs.cache
+C:\Users\Kin\Desktop\123\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.csproj.CopyComplete
+C:\Users\Kin\Desktop\123\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.exe
+C:\Users\Kin\Desktop\123\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.pdb
+C:\Users\Kin\Desktop\123\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.UpdateFoodForm.resources
+D:\HK1 - III\csdl\Lab09\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\Lab09_Entity_Framework.exe.config
+D:\HK1 - III\csdl\Lab09\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\Lab09_Entity_Framework.exe
+D:\HK1 - III\csdl\Lab09\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\Lab09_Entity_Framework.pdb
+D:\HK1 - III\csdl\Lab09\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\EntityFramework.dll
+D:\HK1 - III\csdl\Lab09\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\EntityFramework.SqlServer.dll
+D:\HK1 - III\csdl\Lab09\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\EntityFramework.xml
+D:\HK1 - III\csdl\Lab09\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\EntityFramework.SqlServer.xml
+D:\HK1 - III\csdl\Lab09\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.csproj.AssemblyReference.cache
+D:\HK1 - III\csdl\Lab09\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.csproj.SuggestedBindingRedirects.cache
+D:\HK1 - III\csdl\Lab09\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.MainForm.resources
+D:\HK1 - III\csdl\Lab09\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.Properties.Resources.resources
+D:\HK1 - III\csdl\Lab09\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.UpdateCategoryForm.resources
+D:\HK1 - III\csdl\Lab09\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.UpdateFoodForm.resources
+D:\HK1 - III\csdl\Lab09\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.csproj.GenerateResource.cache
+D:\HK1 - III\csdl\Lab09\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.csproj.CoreCompileInputs.cache
+D:\HK1 - III\csdl\Lab09\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.csproj.CopyComplete
+D:\HK1 - III\csdl\Lab09\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.exe
+D:\HK1 - III\csdl\Lab09\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.pdb
